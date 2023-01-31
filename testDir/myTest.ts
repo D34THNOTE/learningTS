@@ -3,3 +3,4 @@ function testFunction(a:number) {
 }
 
 testFunction(3)
+testFunction(45)
